@@ -1,0 +1,6 @@
+{
+  "loader": "fabric",
+  "minecraft_version": "26.3",
+  "mod_id": "waterphysics",
+  "mod_version": "1.0.0"
+}

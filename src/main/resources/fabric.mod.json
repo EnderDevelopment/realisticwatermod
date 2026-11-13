@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "waterphysics",
+  "version": "1.0.0",
+  "name": "Water Physics Reactions",
+  "description": "Adds lightweight water motion and impact reactions while preserving vanilla fluids and textures.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.waterphysics.WaterPhysicsMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
